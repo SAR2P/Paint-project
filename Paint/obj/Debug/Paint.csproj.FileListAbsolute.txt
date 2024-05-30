@@ -1,0 +1,31 @@
+C:\Users\SaeeD\source\repos\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\SaeeD\source\repos\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\SaeeD\source\repos\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.Paint_MainForm.resources
+D:\SaeeD Master TovseGar\Project\Paint\Paint\bin\Debug\Paint.exe.config
+D:\SaeeD Master TovseGar\Project\Paint\Paint\bin\Debug\Paint.exe
+D:\SaeeD Master TovseGar\Project\Paint\Paint\bin\Debug\Paint.pdb
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.Paint_MainForm.resources
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.exe
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.pdb
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\bin\Debug\Paint.exe.config
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\bin\Debug\Paint.exe
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\bin\Debug\Paint.pdb
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\obj\Debug\Paint.Paint_MainForm.resources
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\obj\Debug\Paint.exe
+G:\D\SaeeD Master TovseGar\Csharp\Project\Paint\Paint\obj\Debug\Paint.pdb
